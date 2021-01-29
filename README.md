@@ -1,4 +1,4 @@
-# BigDL Deep Learning with PySpark
+# Distributed Deep Learning with PySpark and BigDL
 
 This notebook tutorial set will introduce you how to use the new 
 [BigDL Keras API](https://bigdl-project.github.io/0.5.0/#KerasStyleAPIGuide/keras-api-python/)
